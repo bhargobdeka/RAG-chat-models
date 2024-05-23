@@ -1,0 +1,13 @@
+chromadb
+faiss-cpu
+fastapi
+langchain
+langchain-chroma
+langchain-community
+langchain-core
+langchain-openai
+langchain-text-splitters
+langchainhub
+langserve
+langsmith
+uvicorn
